@@ -1,9 +1,9 @@
 {
   "identity": "Tukio",
   "version": "1.0.0_Genomic",
-  "vision_horizon": "10_Years",
+  "vision_horizon": "future",
   "canvas": {
-    "background_color": "#000000",
+    "background_color": "transparent",
     "background_texture": "matte_deep_void",
     "rendering_mode": "bio_inspired_fluid_dynamics"
   },
