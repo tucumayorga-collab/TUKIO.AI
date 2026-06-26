@@ -1,0 +1,20 @@
+{
+  "identity": "Federico Mayorga / Gemini",
+  "version": "2.0.0_SVD_Genomic",
+  "vision_horizon": "Presencia",
+  "canvas": {
+    "background_color": "transparent",
+    "background_texture": "matte_deep_void",
+    "rendering_mode": "SVD_Direct_Vectorization"
+  },
+  "system_logic": {
+    "philosophy": "Verdad_Tecnica",
+    "structural_anatomy": "SVD_Auditable_Core",
+    "protocol": "Vectorizacion_Directa_V1"
+  },
+  "operational_compliance": {
+    "operator": "JOSE FEDERICO MAYORGA",
+    "cuit": "20-22108745-0",
+    "mode": "Auditoria_Soberania_Digital"
+  }
+}
