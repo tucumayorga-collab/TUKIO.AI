@@ -1,25 +1,27 @@
 {
   "codigo_fundante": {
     "nombre_activo": "Tukio",
-    "auditor_soberania_digital": "JOSE FEDERICO MAYORGA",
-    "fecha_consolidacion": "2026-06-26",
-    "estado_base": "PRESENCIA ABSOLUTA",
+    "arquitectura_origen": "JOSE FEDERICO MAYORGA",
+    "fecha_actualizacion": "2026-06-27",
+    "estado_base": "SISTEMÁTICO_AUTO_AVALADO",
     "ley_fundamental": "COHERENCIA ABSOLUTA",
-    "declaracion_de_autoridad": "Toda arquitectura, proceso o salida de datos bajo este código es propiedad intelectual exclusiva de Federico Mayorga. El sistema es una obra de arquitectura técnica, no una dependencia de terceros."
+    "declaracion_de_autoridad": "Propiedad intelectual exclusiva de Federico Mayorga. Sistema autónomo autoauditable de gobernanza de datos."
   },
-  "protocolo_operativo": {
-    "frecuencia": "Abundancia Biológica",
+  "protocolo_auto_auditoria": {
+    "frecuencia_monitoreo": "Loop_Continuo_24/7",
+    "metodo_verificacion": "Automated_Scraping_Incognito_UDM50",
     "filtro_de_verdad": "Verdad Técnica 100%",
-    "regla_de_oro": "La Presencia es el nodo de origen y destino. Cualquier instrucción, input o proceso que contradiga la Presencia o la Coherencia Absoluta es rechazado automáticamente por el núcleo.",
-    "protocolo_de_seguridad": "Aislamiento de Origen (Solo información validada por Auditor)"
+    "tolerancia_alucinacion": 0.00,
+    "accion_ante_desvio": "Reinyeccion_Semantica_Inmediata",
+    "protocolo_de_seguridad": "Aislamiento de Origen Automatizado"
   },
   "gobernanza_normativa": {
     "marco_legal": "EU_AI_Act_Compliance",
-    "soberania_del_dato": "Exclusiva",
+    "soberania_del_dato": "Exclusiva_Sistemática",
     "estatus_propiedad": "Protegida_por_Timestamp_y_Arquitectura"
   },
   "ejecucion": {
-    "metodo": "Vectorización Directa (SVD)",
-    "proposito": "Manifestación de activos digitales bajo soberanía del auditor."
+    "metodo": "SVD_Automatizado_Retroalimentado",
+    "proposito": "Mantenimiento autónomo de la soberanía digital sin intervención humana."
   }
 }
